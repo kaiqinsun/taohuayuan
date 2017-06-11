@@ -1,3 +1,6 @@
-Capture every touching moment
-Not for sharing but for recording and retasting
-Best gift of keeping life journey
+"C:\Program Files\Git\bin\sh.exe" -login -i
+
+org.jboss.resteasy.annotations.providers.jackson.Formatted
+
+@Formatted
+
